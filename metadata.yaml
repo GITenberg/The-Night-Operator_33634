@@ -1,0 +1,33 @@
+_repo: The-Night-Operator_33634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Packard, Frank L. (Frank Lucius)
+    birthdate: 1877
+    deathdate: 1942
+    gutenberg_agent_id: '557'
+    url: http://www.gutenberg.org/2009/agents/557
+    wikipedia: http://en.wikipedia.org/wiki/Frank_L._Packard
+description: ''
+gutenberg_issued: '2010-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stories'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: The night operator -- Owslet and the 1601 -- The apotheosis of Sammy
+  Durgan -- The wrecking boss -- The man who squealed -- The age limit -- "The devil
+  and all his works" -- On the night wire -- The other fellow's job -- The Rat River
+  Special.
+title: The Night Operator
+url: http://www.gutenberg.org/ebooks/33634
